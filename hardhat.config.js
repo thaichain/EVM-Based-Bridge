@@ -11,9 +11,6 @@ task("accounts", "Prints the list of accounts", async () => {
   }
 });
 
-// 0x3A05f13F03175339659487D2b6709312bfb358DD
-// 5a0b298330eb14476d3ebec609190652f0df3fdd1ecd9d4877dc3090d01cee76
-
 module.exports = {
   networks: {
     localhost: {
