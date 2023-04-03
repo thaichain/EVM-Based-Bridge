@@ -35,6 +35,6 @@ Before using the repository function, grant the Approve permission to the Bridge
 Developers :
 Github : @musxos
 
-Github : @eyyupensar
+Github : @eyyubmermer
 
 Github : @sinyordes
